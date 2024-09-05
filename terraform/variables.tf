@@ -76,7 +76,7 @@ variable minecraft_config {
         # https://github.com/itzg/docker-minecraft-server#enable-command-block
         ENABLE_COMMAND_BLOCK   = true
         EULA                   = true
-        ICON                   = null # "https://raw.githubusercontent.com/geekzter/azure-minecraft-docker/main/visuals/aci.png"
+        ICON                   = null # "https://raw.githubusercontent.com/withinfocus/azure-minecraft-docker/main/visuals/aci.png"
         MAX_PLAYERS            = 10
         MODS                   = null
         # https://github.com/itzg/docker-minecraft-server#game-mode
